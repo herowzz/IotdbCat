@@ -35,7 +35,7 @@ namespace IotdbCat.UI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1122, 685);
+            this.ClientSize = new System.Drawing.Size(1164, 708);
             this.Name = "MainForm";
             this.Text = "MainForm";
             this.ResumeLayout(false);
