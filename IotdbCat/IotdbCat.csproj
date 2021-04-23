@@ -12,6 +12,8 @@
 
   <ItemGroup>
     <Folder Include="Common\" />
+    <Folder Include="Dao\" />
+    <Folder Include="Domain\" />
   </ItemGroup>
 
 </Project>
