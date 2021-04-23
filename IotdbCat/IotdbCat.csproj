@@ -10,10 +10,4 @@
     <PackageReference Include="iotdb_client_csharp" Version="0.12.0.3" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Common\" />
-    <Folder Include="Dao\" />
-    <Folder Include="Domain\" />
-  </ItemGroup>
-
 </Project>
