@@ -15,6 +15,7 @@ namespace IotdbCat.UI
         public MainForm()
         {
             InitializeComponent();
+            ///nihao
         }
     }
 }
