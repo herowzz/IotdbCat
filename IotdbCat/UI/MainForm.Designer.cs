@@ -35,10 +35,11 @@ namespace IotdbCat.UI
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(952, 590);
-			this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+			this.ClientSize = new System.Drawing.Size(1262, 977);
+			this.Margin = new System.Windows.Forms.Padding(2);
 			this.Name = "MainForm";
-			this.Text = "MainForm";
+			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+			this.Text = "IotdbCat";
 			this.ResumeLayout(false);
 
         }
